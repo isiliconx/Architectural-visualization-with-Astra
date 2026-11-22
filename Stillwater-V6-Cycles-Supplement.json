@@ -1,0 +1,128 @@
+{
+  "input_sha256": "1eb3789aa2ee0677696165493de47ec8d79b3e5df1f6b92882f405d9f3595b4c",
+  "render_script_sha256": "39cf5a20c21628ef21692a886f34a6acf3611daae5030160614987f671d3bdc8",
+  "renders": {
+    "06-The-Arrival-Court": {
+      "name": "06-The-Arrival-Court.png",
+      "stage": "Final",
+      "shot": "arrival-wide",
+      "sha256": "b957c3a426974500736ed8b1830770a3d8dbe6c09cf7e12b2b4bd5771309eae0",
+      "bytes": 3497961,
+      "input_sha256": "1eb3789aa2ee0677696165493de47ec8d79b3e5df1f6b92882f405d9f3595b4c",
+      "renderer": "Cycles",
+      "backend": "OPTIX",
+      "devices": [
+        "NVIDIA RTX PRO 6000 Blackwell Server Edition"
+      ],
+      "blender": "4.5.3 LTS",
+      "dimensions": [
+        2240,
+        1400
+      ],
+      "samples": 96,
+      "camera": {
+        "stem": "06-The-Arrival-Court",
+        "aim": [
+          0.8,
+          9.1,
+          3.5
+        ],
+        "eye": [
+          13.65,
+          23.3,
+          5.1
+        ],
+        "lens": 25.0,
+        "rise": 0.012,
+        "ratio": [
+          16,
+          10
+        ],
+        "exposure": 0.1,
+        "ideas": "Wider architecture portrait across the court and native conifer planting."
+      },
+      "support": "Mountain | Continuous graded land, ridges and valley",
+      "height_above_support_m": 10.545,
+      "central_first_hit": "L1 | uphill arrival and service wall.002",
+      "central_distance_m": 18.778,
+      "seconds": 20.02,
+      "render_script_sha256": "39cf5a20c21628ef21692a886f34a6acf3611daae5030160614987f671d3bdc8",
+      "local_decoded_mean_luma": 86.44
+    },
+    "07-Ash-and-Linen": {
+      "name": "07-Ash-and-Linen.png",
+      "stage": "Final",
+      "shot": "joinery-refined",
+      "sha256": "74d9bfdf4d9eae88b7b913b1a61d8fb2abf2536cd77a8c7c9928513a6c7e332b",
+      "bytes": 2722112,
+      "input_sha256": "1eb3789aa2ee0677696165493de47ec8d79b3e5df1f6b92882f405d9f3595b4c",
+      "renderer": "Cycles",
+      "backend": "OPTIX",
+      "devices": [
+        "NVIDIA RTX PRO 6000 Blackwell Server Edition"
+      ],
+      "blender": "4.5.3 LTS",
+      "dimensions": [
+        1536,
+        1920
+      ],
+      "samples": 96,
+      "camera": {
+        "stem": "07-Ash-and-Linen",
+        "aim": [
+          -7.09,
+          3.24,
+          0.855
+        ],
+        "eye": [
+          -5.75,
+          3.93,
+          1.205
+        ],
+        "lens": 53.0,
+        "rise": 0.007,
+        "ratio": [
+          4,
+          5
+        ],
+        "exposure": 0.2,
+        "f": 8.0,
+        "focus": [
+          -7.12,
+          3.22,
+          0.87
+        ],
+        "ideas": "Centered portrait of steam-bent ash, through-dowels and tailored upholstery."
+      },
+      "support": "V6 | Sequential-cut travertine floor and physical joints",
+      "height_above_support_m": 0.785,
+      "central_first_hit": "Living oak chair | seat",
+      "central_distance_m": 1.328,
+      "seconds": 23.084,
+      "render_script_sha256": "39cf5a20c21628ef21692a886f34a6acf3611daae5030160614987f671d3bdc8",
+      "local_decoded_mean_luma": 98.65
+    }
+  },
+  "delivery": [
+    {
+      "file": "06-The-Arrival-Court.png",
+      "bytes": 3497961,
+      "sha256": "b957c3a426974500736ed8b1830770a3d8dbe6c09cf7e12b2b4bd5771309eae0"
+    },
+    {
+      "file": "07-Ash-and-Linen.png",
+      "bytes": 2722112,
+      "sha256": "74d9bfdf4d9eae88b7b913b1a61d8fb2abf2536cd77a8c7c9928513a6c7e332b"
+    },
+    {
+      "file": "Stillwater-V6-Cycles-Supplement.jpg",
+      "bytes": 368337,
+      "sha256": "d7befc37d577e0aa4d44891662fc8510819ada2a44b3a379e8479ff0555a6a7e"
+    },
+    {
+      "file": "Stillwater-V6-Cycles-Supplement.zip",
+      "bytes": 6576097,
+      "sha256": "2cd3748d1ff8ee1ade75052d02544ba8fe943e1679c1b2ad9b86c4f9d39a1c5b"
+    }
+  ]
+}
