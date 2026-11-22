@@ -1,0 +1,42 @@
+[
+  {
+    "file": "OPEN-ME.txt",
+    "bytes": 769,
+    "sha256": "750cbe11f48aa4fbd6d75c80da5c5f35a788362041767b6e8326b331f3f12cdf"
+  },
+  {
+    "file": "Stillwater-V5-Full-Estate.html",
+    "bytes": 46393541,
+    "sha256": "8b68fc230cda3001fb9bf794e7d8e78249f4c269572d61319d042cee5b8abe29"
+  },
+  {
+    "file": "Stillwater-V5-Full-Estate.zip",
+    "bytes": 33023995,
+    "sha256": "78aa0f9b698cd6402998b9bb7f3a3d768fdac0a32d1fffe867e6c845302ffbca"
+  },
+  {
+    "file": "site/.nojekyll",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "file": "site/assets/estate.glb.gz",
+    "bytes": 31005502,
+    "sha256": "be7d5d7545ce48be4771fb7373cf5b52d3d20bfd9e57ab18e7fd239120ac9b45"
+  },
+  {
+    "file": "site/assets/look.json.gz",
+    "bytes": 1992886,
+    "sha256": "6ca84532d69eceb4d0fb5634b96044a5eded5e3a5d70cc8cd54b619108924d5c"
+  },
+  {
+    "file": "site/assets/navigation.json.gz",
+    "bytes": 205608,
+    "sha256": "e003d711a3ba4e591269e69ae56d6a555234b7d2d0767eff7ffa919c677d8614"
+  },
+  {
+    "file": "site/index.html",
+    "bytes": 653610,
+    "sha256": "a4c83902e209660da61a3853d89e1cb3a578146be3f16f39881e23b015391651"
+  }
+]
