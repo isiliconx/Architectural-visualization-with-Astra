@@ -1,0 +1,54 @@
+{
+  "blender": "4.5.3 LTS",
+  "master_sha256": "7e3bae12a0061a6d9ba818500d4855a67831ba91f73bb5397cdf3fc6be70e90f",
+  "scene_sha256": "1eb3789aa2ee0677696165493de47ec8d79b3e5df1f6b92882f405d9f3595b4c",
+  "render_checks": {
+    "01-Sunset-Estate": {
+      "meanLuma": 91.85,
+      "sha256": "7c3f812d38c470d9b7ff074e50951c7494a2c8ebc774ea5feb21aabe87e97c2e",
+      "camera": "V6 | 01 | Sunset estate"
+    },
+    "02-Living-and-Dining": {
+      "meanLuma": 83.21,
+      "sha256": "c37b56bba4fad9089a6e50fa96567176be3c43ad8466bc1da1941841e3e1ab31",
+      "camera": "V6 | 02 | Entry to living and dining"
+    },
+    "03-Textile-and-Travertine": {
+      "meanLuma": 102.09,
+      "sha256": "56e229d91ccdaa6d8f9408dd6e70a41df874fc753c27b52cb7972e4e3ad57662",
+      "camera": "V6 | 03 | Travertine and upholstery"
+    },
+    "04-Ceramics-and-Kitchen": {
+      "meanLuma": 65.11,
+      "sha256": "8b630a181c42a33cad3a23db3c3b4d37f95c64a26f8c93fab9022382b5dc77b3",
+      "camera": "V6 | 04 | Island ceramics"
+    },
+    "05-Garden-Terrace": {
+      "meanLuma": 79.95,
+      "sha256": "071b5789bbe4b1a77eaf251ff907eeb316c37cbf3aedc5211014be7a971c86f6",
+      "camera": "V6 | 05 | Pool terrace at dusk"
+    }
+  },
+  "files": [
+    {
+      "bytes": 26433314,
+      "sha256": "bb9f3c3ab3306a466fa50bc7d657619baf4d1ed3c5152654018acf7b50b9cce4",
+      "name": "Stillwater-V6-Editable-Scene.zip"
+    },
+    {
+      "bytes": 13317197,
+      "sha256": "6c51dab8b0547e95d58e672a0234afeee86cbca614c24ab9400b19e6041c6308",
+      "name": "Stillwater-V6-Review-Images.zip"
+    },
+    {
+      "bytes": 579154,
+      "sha256": "eca801a77f85aae978e04f29e0100b56a19318516cdbd014385dafbe1a324fda",
+      "name": "Stillwater-V6-Review.jpg"
+    },
+    {
+      "bytes": 26884437,
+      "sha256": "1eb3789aa2ee0677696165493de47ec8d79b3e5df1f6b92882f405d9f3595b4c",
+      "name": "Stillwater-House-V6.blend"
+    }
+  ]
+}
