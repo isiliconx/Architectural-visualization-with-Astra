@@ -1,0 +1,17 @@
+{
+  "project": "Stillwater House II",
+  "blender": "4.5.3 LTS",
+  "objects": 2147,
+  "materials": 68,
+  "mesh_vertices": 716402,
+  "cameras": [
+    "01 | Expanded garden residence",
+    "02 | Poolside architecture",
+    "03 | Garden leisure"
+  ],
+  "units": "meters",
+  "maximum_architecture_height_m": 10.98,
+  "main_residence_width_m": 23,
+  "external_assets": [],
+  "original_preserved": true
+}

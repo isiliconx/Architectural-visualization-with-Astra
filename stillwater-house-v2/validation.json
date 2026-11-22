@@ -1,0 +1,34 @@
+{
+  "status": "passed",
+  "fresh_process_open": true,
+  "objects": 2147,
+  "materials": 60,
+  "cameras": [
+    "01 | Expanded garden residence",
+    "02 | Poolside architecture",
+    "03 | Garden leisure"
+  ],
+  "collections": [
+    "01 Architecture",
+    "02 Living atelier",
+    "03 Dining and kitchen",
+    "04 Terrace",
+    "05 Water garden",
+    "06 Planting",
+    "07 Lighting",
+    "08 Cameras",
+    "09 Outdoor dining pavilion",
+    "09 Upper residence",
+    "10 Stair lantern",
+    "11 Roof gardens",
+    "12 Wellness wing",
+    "Collection"
+  ],
+  "external_image_dependencies": [],
+  "linked_libraries": [],
+  "nonfinite_transforms": [],
+  "helper_lights_hidden_in_glass": true,
+  "active_camera": "01 | Expanded garden residence",
+  "blender": "4.5.3 LTS",
+  "v1_preserved": true
+}
